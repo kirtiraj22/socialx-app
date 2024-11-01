@@ -1,1 +1,1 @@
-# React Native App 
+# Messaging app using React Native 
